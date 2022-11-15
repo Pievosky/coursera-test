@@ -1,0 +1,43 @@
+body {
+	background-color: darkgoldenrod;
+}
+
+
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+.container{
+	margin: 0px 0px 0px 0px;
+}
+h1 {
+ position: relative;
+ float: left;
+}
+
+h2 {
+	text-align: center;
+	font-weight: bold;
+	margin-bottom:60px ;
+}
+h3 {
+	text-align: center;
+}
+.border1 {
+	font-size:18px;
+	padding: 0px 10px 20px 10px;
+	margin: 20px;
+	border:solid;
+	border-width: 5px;
+	border-color: black ;
+}
+
+#collapsable-nav {
+	color: blue;
+}
+
+@media (min-width: 768px) {
+	 #nav-list {
+	 	display: none;
+	 }
+}
