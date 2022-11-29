@@ -41,3 +41,16 @@ h3 {
 	 	display: none;
 	 }
 }
+@media (max-width: 768px) {
+	#nav-list{
+		text-align: center;
+	}
+	a {
+		font-weight: bold;
+		border-style: solid;
+		border-color: black;
+		box-sizing: border-box;
+		margin-bottom: 5px;
+	}
+	}
+}
