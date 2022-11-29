@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+    "[Abyss]": {
+        "sideBar.background": "#200764",
+        "sideBarSectionHeader.background": "#25008a",
+        "list.activeSelectionBackground": "#25008a",
+        "list.hoverBackground": "#3b149775",
+        "list.inactiveSelectionBackground": "#120044",
+    }
+    }
+}
